@@ -18,6 +18,8 @@
 	},
 	"homepage": "https://github.com/Siiggy/online-shop-demo-project#readme",
 	"dependencies": {
+		"bcryptjs": "^2.4.3",
+		"csurf": "^1.11.0",
 		"ejs": "^3.1.6",
 		"express": "^4.17.2",
 		"mongodb": "^4.2.2"
