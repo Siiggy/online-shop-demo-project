@@ -43,6 +43,7 @@ html {
 
 body {
 	margin: 0;
+	/* background-image: url("/public/images/background.jpg"); */
 	background-color: var(--color-gray-10);
 	color: var(--color-gray-500);
 }
