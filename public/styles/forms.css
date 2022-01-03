@@ -10,10 +10,10 @@ label {
 }
 
 input,
-text-area {
+textarea {
 	font: inherit;
 	padding: var(--space-2);
-	border-radius: var(border-radius-small);
+	border-radius: var(--border-radius-small);
 	border: none;
 	width: 90%;
 }
