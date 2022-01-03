@@ -43,8 +43,8 @@ html {
 
 body {
 	margin: 0;
-	/* background-image: url("/public/images/background.jpg"); */
 	background-color: var(--color-gray-10);
+	background-image: url("../images/background.png");
 	color: var(--color-gray-500);
 }
 
